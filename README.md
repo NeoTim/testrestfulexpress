@@ -1,4 +1,8 @@
-# unit test express restful api with mocha and chai-http or supertest
+# Integration test express restful api with mocha and chai-http or supertest
+
+# 单元测试的目的
+1. 检测代码的健壮性, 可以通过多种非法请求的用例去检测是否能够正确的处理
+2. 新人接手项目如果改出问题，单元测试可以避免非法的修改出现问题，避免线上正常的服务崩溃
 
 # Code
 
