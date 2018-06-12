@@ -171,9 +171,9 @@ describe('Books', () => {
 
 ### 参考资料
 
-[test-a-node-restful-api-with-mocha-and-chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
-[chai-http](https://github.com/chaijs/chai-http)
-[chai-http](http://www.chaijs.com/plugins/chai-http/)
-[supertest](https://github.com/visionmedia/supertest)
-[chaijs](http://www.chaijs.com/)
-[bookstore](https://github.com/samuxyz/bookstore)
+- [test-a-node-restful-api-with-mocha-and-chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
+- [chai-http](https://github.com/chaijs/chai-http)
+- [chai-http](http://www.chaijs.com/plugins/chai-http/)
+- [supertest](https://github.com/visionmedia/supertest)
+- [chaijs](http://www.chaijs.com/)
+- [bookstore](https://github.com/samuxyz/bookstore)
